@@ -12,7 +12,7 @@ from flask import (
 
 
 app = Flask(__name__)
-app.config["SECRET_KEY"] = "762354773da2471791e3354072bcb7dc"
+app.config["SECRET_KEY"] = "SECRECT"
 socketio = SocketIO(app)
 
 
