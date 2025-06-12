@@ -11,12 +11,23 @@ The purpose of this repository is educational and historical, not all code is pr
 
 ## Repository Structure 
 
-├── Dynamic Programming/     # Early experiments with DP
-├── OOP/            # Introductory OOP code samples
-├── Text Generation_API Integration.py         # Initial work on basic NLP and generation
-├── PAModel_Training.ipynb                 # Project-specific model component (not standalone)
-├── flask_game.py              # Script contributions to a Flask-based game project
-└── README.md                # This file
+- **`Dynamic Programming/`**  
+  _Early experiments with dynamic programming concepts._
+
+- **`OOP/`**  
+  _Introductory object-oriented programming code samples._
+
+- **`Text Generation_API Integration.py`**  
+  _Initial work on basic NLP and text generation with API integration._
+
+- **`PAModel_Training.ipynb`**  
+  _Project-specific model training script — not a standalone application._
+
+- **`flask_game.py`**  
+  _Script contribution to a larger Flask-based game project._
+
+- **`README.md`**  
+  _This file._
 
 
 Feel free to explore, but interpret each folder in the context of its time and purpose.
